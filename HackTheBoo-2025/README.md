@@ -17,6 +17,7 @@ HackTheBoo is an annual Halloween-themed CTF organized by Hack The Box, featurin
 | Challenge | Difficulty | Points | Writeup |
 |-----------|-----------|--------|---------|
 | Rookie Mistake | Easy | 925 | [Writeup](./pwn/Rookie_mistake_writeup.md) |
+| Rookie Salvation | Medium | 950 | [Writeup](./pwn/Rookie_salvation_writeup.md) |
 
 
 ### Web
